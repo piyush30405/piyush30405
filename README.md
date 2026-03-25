@@ -1,132 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=piyush30405.piyush30405" />
 
-<!-- HERO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+👋;+I'm+[Your+Name];Frontend+Developer+⚡;Data+Analytics+Learner+📊;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+👋;+I'm+Piyush+P!;+Frontend+Developer+⚡;+Data+Analytics+Learner+📊;+Building+Real+World+Projects+🚀" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
-</p>
-
----
-
-<h3 align="center">⚡ Developer • Analyst • Builder</h3>
-
-<div align="center">
-
-💻 Building **IoT Nexus + Full Stack Apps**  
-📊 Learning **Data Analytics + Business Thinking**  
-🚀 Focused on **real-world projects, not tutorials**
-
-</div>
-
----
-
-<!-- MINI DASHBOARD -->
-<h2 align="center">🧪 Dev Dashboard</h2>
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| 🧠 Learning | Data Analytics + System Design |
-| 🚀 Current Build | IoT Nexus |
-| ⚡ Focus | Frontend + Full Stack |
-| 📈 Growth Mode | Consistent |
-
-</div>
-
----
-
-<!-- CURRENTLY LEARNING -->
-<h2 align="center">🧠 Currently Learning (Live)</h2>
-
-<div align="center">
-
-🔄 Updating as I learn & build...
-
-- 📊 Data Analytics (Excel → SQL → Python)  
-- 🌐 Advanced React & Next.js  
-- ⚙️ Backend APIs & System Design  
-- 📈 Data Visualization (Power BI / Tableau next)
-
-</div>
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">⚒️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma&theme=dark" />
+<h3 align="center">Frontend Developer • Full-Stack Builder • Data Analytics Explorer from India 🇮🇳</h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,mysql,firebase,python,r&theme=dark" />
+
+<div align="center">
+ 🔭 Currently building **IoT Nexus + Full-stack web applications**  
+ 🌱 Learning **Data Analytics (Excel, SQL, Python) + Advanced React**  
+ 💬 Ask me about **Frontend, React, Node.js, Git, Projects**  
+ ⚡ Fun fact: **Half my bugs get fixed after I complain about them 😤**
+</div>
+
+<div align="center"> 
+  <a href="mailto:piyush3042005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/p-piyush-957330289/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://code-curious-glow.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,javascript,typescript,python" />
+</div>
+
+<hr/>
+
+<h2 align="center">🚀 Current Focus 🚀</h2>
+
+<div align="center">
+
+📦 **IoT Nexus** → Real-time IoT data platform + dashboards  
+📊 **Data Analytics Journey** → Excel → SQL → Python → Visualization  
+🌐 **Full Stack Development** → Clean UI + scalable backend  
 
 </div>
 
----
+<hr/>
 
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📊 GitHub Activity Heatmap</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-<!-- STATS -->
-<h2 align="center">⚡ GitHub Stats</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush30405&theme=react&border_radius=10" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=piyush30405&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  
+  <br/>
+  
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush30405&layout=compact&theme=react&border_radius=10" />
+  
+  <br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Activity 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush30405&theme=react-dark&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <h2>🐍 GitHub Contributions 🐍</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/piyush30405/piyush30405/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/>
 </div>
 
----
+<hr/>
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750917-1c2b5a8a-86f1-4a5c-b0c7-1b4b1c0e8d2f.gif" width="600"/>
-</p>
-
----
-
-<!-- PROJECTS -->
-<h2 align="center">🚀 What I'm Building</h2>
-
-<div align="center">
-
-🔹 IoT Data Platform (Real-time ingestion + dashboard)  
-🔹 Full-stack web apps with clean UI  
-🔹 Data-driven features inside applications  
-
-</div>
-
----
-
-<!-- SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/piyush30405/piyush30405/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
-</p>
-
-<h3 align="center">⚡ Build. Break. Learn. Repeat.</h3>
+<h3 align="center">⚡ Build. Ship. Learn. Repeat.</h3>
